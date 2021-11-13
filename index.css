@@ -7,10 +7,6 @@
   font-family: "Poppins", sans-serif;
 }
 
-body {
-  /* background: white; */
-}
-
 html {
   scroll-behavior: smooth;
 }
@@ -1329,12 +1325,6 @@ section h1 {
   /* align-items: center; */
 }
 
-.chilld:hover {
-  /* transform: rotate(25); */
-  /* transform: rotate(360deg); */
-  /* margin: 2em 0em 1em 4em; */
-  /* border-radius: 50%; */
-}
 .info img {
   align-items: center;
   padding-left: 1em;
