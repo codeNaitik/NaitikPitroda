@@ -456,6 +456,16 @@ input {
   margin: 1em;
   /* color: #000; */
 }
+.iconn a {
+  text-decoration: none;
+
+  /* color: white; */
+}
+.iconn a i {
+  text-decoration: none;
+  /* background-color: white; */
+  /* border-radius: 90%; */
+}
 
 .iconn:hover {
   transform: scale(2, 2);
