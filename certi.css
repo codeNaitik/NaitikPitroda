@@ -66,6 +66,7 @@ section {
   height: calc(100% - 200px); */
   width: 100%;
   height: calc(100% - 200px);
+  /* margin: 115em; */
 }
 
 section .curve {
@@ -244,9 +245,12 @@ body {
   height: 32em;
 }
 
-.all {
-  padding-top: 40em;
+.all > .content_div {
+  /* padding-top: 70em; */
+  margin-top: 170em;
 }
+
+
 
 /* --------------------footer---------------- */
 .footerr {
