@@ -38,11 +38,11 @@ const MyExperience = [
 },
 {
   id: 3,
-  img: "Multidots.png",
-  title: "Full Stack Engineer Intern",
-  org: "Multidots",
-  location: "Texas, USA (Remote)",
-  date: "Jan '24 - Jun '24",
+  img: "",
+  title: "Software Engineer Intern",
+  org: "Apex Engineering",
+  location: "Gujarat, India",
+  date: "May '22 - Dec '22",
   description: "Developed a real-time analytics dashboard for an affiliate link tracking platform using Node.js, REST APIs, and MongoDB, delivering analytics with less than 200ms latency. Implemented asynchronous AWS SQS workflows to reduce peak CPU utilization from 90% to 30%. Resolved 15+ system and API integration issues, reducing error rates by 45%.",
   tags: [
     "Node.js",
@@ -57,6 +57,17 @@ const MyExperience = [
   featured: true
 },
 
+{
+    id: 1,
+    img: "IMG_6367.jpg",
+    title: "Research Intern",
+    org: "Laurentian University",
+    location: "Sudbury, Canada",
+    date: "jul'23 - Aug'23",
+    description: "Collaborated with Dr. Kalpdrum Passi, a Professor at Laurentian University, on a lung cancer prediction project. Built a predictive model under his mentorship that reached 98% accuracy, and led the identification and analysis of the physical and health-related factors that predict lung cancer.",
+    tags: ["Machine Learning", "Python", "Research"],
+    featured: true
+  },
   {
     id: 2,
     img: "digital_for_humanity_logo.jpeg",
@@ -68,17 +79,7 @@ const MyExperience = [
     tags: ["React", "Node.js", "REST API"],
     featured: true
   },
-  {
-    id: 1,
-    img: "IMG_6367.jpg",
-    title: "Research Intern",
-    org: "Laurentian University",
-    location: "Sudbury, Canada",
-    date: "jul'23 - Aug'23",
-    description: "Collaborated with Dr. Kalpdrum Passi, a Professor at Laurentian University, on a lung cancer prediction project. Built a predictive model under his mentorship that reached 98% accuracy, and led the identification and analysis of the physical and health-related factors that predict lung cancer.",
-    tags: ["Machine Learning", "Python", "Research"],
-    featured: true
-  },
+  
   
   {
     id: 3,
