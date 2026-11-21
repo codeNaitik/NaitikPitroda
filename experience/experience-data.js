@@ -59,7 +59,7 @@ const MyExperience = [
 
 {
     id: 1,
-    img: "IMG_6367.jpg",
+    img: "Lu.jpeg",
     title: "Research Intern",
     org: "Laurentian University",
     location: "Sudbury, Canada",
@@ -68,18 +68,6 @@ const MyExperience = [
     tags: ["Machine Learning", "Python", "Research"],
     featured: true
   },
-  {
-    id: 2,
-    img: "digital_for_humanity_logo.jpeg",
-    title: "Web Developer Intern",
-    org: "Digital For Humanity",
-    location: "London, UK (remote)",
-    date: "Mar'23 - April'23",
-    description: "Led development of the Proeducator web app with React and Node.js, solving data transmission issues through REST API integration and keeping the user experience smooth for the client.",
-    tags: ["React", "Node.js", "REST API"],
-    featured: true
-  },
-  
   
   {
     id: 3,
